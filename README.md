@@ -6,7 +6,7 @@ Proyek Analisis Data: Bike Sharing, submission course Belajar Analisis Data deng
 
 1. Clone repository ini ke direktori lokal Anda.
 ```
-git clone https://github.com/grnyoel/analisis-data-python-dicoding.git
+git clone https://github.com/grnyoel/analisis-data-bike-sharing.git
 ```
 2. Install dependencies
 ```
