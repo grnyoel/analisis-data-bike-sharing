@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 1. Pindah ke directory dashboard
 ```bash
-cd dashboard
+cd submission
 ```
 
 2. Jalankan streamlit
